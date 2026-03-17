@@ -9,6 +9,7 @@ Reset button to restart the game at any time
 Uses React functional components and hooks (useState)
 Includes a small Redux setup (redux/ folder) (likely for extensibility / state tracking)
 
-![Screenshot](images/tic-tac-toe-img2.png)
+![Screenshot1](tic-tac-toe/images/tic-tac-toe-img1.png)
+![Screenshot2](tic-tac-toe/images/tic-tac-toe-img2.png)
 
 
