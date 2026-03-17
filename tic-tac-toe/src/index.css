@@ -1,0 +1,14 @@
+/* index.css */
+
+/* Board styles */
+.board-row {
+  display: flex;
+}
+
+.btn-square {
+  width: 100px;
+  height: 100px;
+  font-size: 2em;
+  border: 1px solid black; /* Black border */
+  background-color: #f8f9fa; /* Light shade of gray */
+}
